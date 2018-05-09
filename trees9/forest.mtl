@@ -1,0 +1,100 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 01.05.2018 12:42:11
+
+newmtl Mossy_Tr
+	Ns 89.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2510 0.2078 0.1608
+	Ks 0.1100 0.1100 0.1100
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mossy_Tr.jpg
+	map_Kd Mossy_Tr.jpg
+
+newmtl Bark___S
+	Ns 51.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0431 0.0196 0.0314
+	Ks 0.2976 0.2753 0.2106
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Bark___S.jpg
+	map_Kd Bark___S.jpg
+
+newmtl Bottom_T
+	Ns 89.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3373 0.1020 0.0510
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Bottom_T.jpg
+	map_Kd Bottom_T.jpg
+
+newmtl Sonnerat
+	Ns 86.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0745 0.0863 0.0235
+	Ks 0.4700 0.4700 0.4700
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Sonnerat.jpg
+	map_Kd Sonnerat.jpg
+
+newmtl Bark___1
+	Ns 104.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.1647 0.0706 0.0392
+	Ks 0.7044 0.6515 0.4984
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Bark___1.jpg
+	map_Kd Bark___1.jpg
+
+newmtl Walnut_L
+	Ns 86.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5725 0.2392 0.0392
+	Ks 0.4700 0.4700 0.4700
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Walnut_L.jpg
+	map_Kd Walnut_L.jpg
+
+newmtl Bark___0
+	Ns 104.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2667 0.1216 0.0824
+	Ks 0.7044 0.6515 0.4984
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Bark___0.jpg
+	map_Kd Bark___0.jpg
